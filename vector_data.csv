@@ -1,0 +1,31 @@
+Vector,Type,Goal,System,Method,Promoter,Tag,Resistance,CopyNumber,Notes
+pUC19,Cloning,Subcloning,Any,Any,None,None,Ampicillin,High,Classic high-copy E. coli plasmid
+pJET1.2,Cloning,Subcloning,Any,Any,None,None,Ampicillin,High,Blunt-end cloning; direct PCR product cloning
+pBluescript II SK(+),Cloning,Subcloning,Any,Any,None,None,Ampicillin,High,"Multiple cloning site, blue-white screening"
+TOPO TA,Cloning,Subcloning,Any,Any,None,None,Kanamycin,High,TA cloning vector; topo-based ligation
+pGEM-T Easy,Cloning,Subcloning,Any,Any,None,None,Ampicillin,High,TA cloning; blue-white screening
+pCR2.1,Cloning,Subcloning,Any,Any,None,None,Kanamycin,High,TOPO-based TA vector for fast cloning
+pENTR/D-TOPO,Cloning,Gateway Entry,Any,Any,None,None,Kanamycin,Medium,Gateway-compatible entry vector
+pENTR1A,Cloning,Gateway Entry,Any,Any,None,None,Kanamycin,Medium,Used in Gateway cloning workflows
+pDONR207,Cloning,Gateway Entry,Any,Any,None,None,Gentamycin,Medium,Recombination-based Gateway donor
+pMiniT 2.0,Cloning,Blunt-end,Any,Any,None,None,Kanamycin,High,Blunt-end cloning vector for PCR products
+pZErO-2,Cloning,Toxic gene cloning,Any,Any,None,None,Zeocin,Low,Suppresses leaky expression of toxic inserts
+pTopoZero,Cloning,TA cloning,Any,Any,None,None,Kanamycin,High,General plant insert carrier
+pUC118,Cloning,Subcloning,Any,Any,None,None,Ampicillin,High,High-copy variant with LacZ
+pGreenII 0000,Cloning,Backbone,Any,Any,None,None,Kanamycin,Low,Backbone for binary vector construction
+pSP72,Cloning,Subcloning,Any,Any,None,None,Ampicillin,High,"For in vitro transcription, basic vector"
+pBI121,Expression,Overexpression,Dicot,Agrobacterium,CaMV 35S,GUS,Kanamycin,Low,GUS reporter; classic binary vector
+pCAMBIA1301,Expression,Overexpression,Dicot,Agrobacterium,CaMV 35S,GUS,Hygromycin,Medium,Common expression in dicots
+pCAMBIA1302,Expression,Overexpression,Dicot,Agrobacterium,CaMV 35S,GFP,Hygromycin,Medium,GFP expression vector
+pGreenII 0179,Expression,RNAi,Dicot,Agrobacterium,Double 35S,None,Kanamycin,Low,RNAi compatible; needs pSoup
+pEarleyGate100,Expression,Overexpression,Arabidopsis,Agrobacterium,35S,HA,Basta,Low,"Gateway-compatible, C-terminal HA tag"
+pEarleyGate101,Expression,Overexpression,Arabidopsis,Agrobacterium,35S,Myc,Basta,Low,C-terminal Myc tag
+pHSE401,Expression,CRISPR,Tomato,Agrobacterium,35S,None,Hygromycin,Medium,Cas9-based editing for dicots
+pK2GW7,Expression,Overexpression,Monocot,Agrobacterium,Ubiquitin,None,Kanamycin,Medium,"Gateway-compatible, monocot-preferred"
+pMDC32,Expression,Overexpression,Dicot,Agrobacterium,35S,GFP,Hygromycin,Low,Multisite Gateway; moderate copy
+pGWB2,Expression,Overexpression,Arabidopsis,Agrobacterium,35S,None,Kanamycin,Medium,Binary vector with Gateway sites
+pB7WG2D,Expression,Overexpression,Any,Agrobacterium,35S,GFP,Basta,Low,Binary Gateway vector with GFP
+pB2GW7,Expression,Overexpression,Any,Agrobacterium,35S,None,Basta,Low,Gateway-ready expression vector
+pHELLSGATE12,Expression,RNAi,Any,Agrobacterium,35S,None,Hygromycin,Low,Hairpin RNAi vector; Gateway-compatible
+pTRV2,Expression,VIGS,Nicotiana,Agrobacterium,None,None,Kanamycin,Low,Virus-induced gene silencing
+pMDC7,Expression,Inducible Expression,Dicot,Agrobacterium,XVE (Estrogen),None,Hygromycin,Low,Inducible expression using estrogen
